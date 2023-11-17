@@ -37,9 +37,12 @@ Bread board
 •	Integrate a secure payment gateway for automatic billing.
 •	Track the duration of the parking session, calculate charges based on a predetermined rate, and process payments seamlessly.
 
+
 **Flow chart:**
-![Screenshot 2023-11-16 154227](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/119619029/4dc32e57-4991-49d4-a5b1-e15b368037f9)
+![flowchart](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/109616711/60cf90dc-fa86-4cbd-b69d-8f82b450ed0e)
+
 
 **Mind map:**
-![WhatsApp Image 2023-11-16 at 1 12 43 PM](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/119619029/2d42919a-5f66-4464-a5f8-459b1ca1b955)
+![Blue Simple Professional Business Brainstorm (1)](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/109616711/49aa8d9b-3ad4-47bf-9852-526079dfc721)
+
 
