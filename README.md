@@ -40,7 +40,7 @@ Bread board
 
 **Flow chart:**
 
-![Screenshot 2023-11-17 131807](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/109616711/83c10ed1-de46-47d8-a20e-2f944f3256b6)
+![Screenshot 2023-11-17 194426](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/109616711/5008e013-6a47-4264-a176-0e2be35747d3)
 
 
 
