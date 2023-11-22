@@ -37,14 +37,47 @@ Bread board
 •	Integrate a secure payment gateway for automatic billing.
 •	Track the duration of the parking session, calculate charges based on a predetermined rate, and process payments seamlessly.
 
-
-**Flow chart:**
+**FLOW CHART:**
 
 ![Screenshot 2023-11-17 194426](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/109616711/5008e013-6a47-4264-a176-0e2be35747d3)
 
-
-
-**Mind map:**
+**MIND MAP:**
 ![Blue Simple Professional Business Brainstorm (1)](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/109616711/49aa8d9b-3ad4-47bf-9852-526079dfc721)
+
+**Circuit diagram:**
+![WhatsApp Image 2023-11-22 at 4 40 03 PM](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/119619029/94328aa2-ea1d-4ab1-a2e0-06584f22c34f)
+
+**BLOCK DIAGRAM:**
+
+![WhatsApp Image 2023-11-22 at 2 27 20 PM](https://github.com/Shreedharagowda8266/Intelligent-system-for-smart-parking-and-automatic-billing/assets/119619029/4b561668-1bc5-49d0-a314-6134d8bc414f)
+
+**APPLICATION:**
+Real-Time Parking Management:
+Sensor Integration: Install sensors in parking spots to detect vehicle presence. These sensors can be ultrasonic, infrared, or camera-based.
+
+Data Collection: Sensors relay real-time data to a central system, indicating which parking spots are vacant or occupied.
+
+Machine Learning for Prediction: Algorithms can analyze patterns in parking data to predict peak hours, helping optimize operations.
+
+Mobile App or Interface: Users can access an app or interface showing available parking spaces in real-time, guiding them to empty spots.
+
+Automated Guidance: Once a user selects a spot, the system can provide navigation to that spot through the app.
+
+Automatic Billing:
+Entry/Exit Recognition: Use cameras or sensors at entry/exit points to detect vehicles and record their entry and exit times.
+
+License Plate Recognition (LPR): Employ computer vision with LPR to identify vehicles and link them to registered accounts.
+
+Billing Calculation: Calculate parking fees based on duration and rates. Machine learning models can help adjust pricing based on demand.
+
+Automated Payments: When a vehicle exits, the system automatically charges the user's registered payment method.
+
+Alerts and Notifications: Send digital receipts or notifications to users confirming payment and summarizing parking details.
+
+
+
+
+
+
 
 
